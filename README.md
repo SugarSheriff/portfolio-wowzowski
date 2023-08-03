@@ -34,3 +34,15 @@ As a web developer, I built this portfolio from scratch to showcase my abilities
 ## Contact
 
 - Email: [liamchulsey@gmail.com](mailto:liamchulsey@gmail.com)
+
+## Usage
+
+Feel free to explore the different sections of the portfolio to learn more about me, my projects, and how to get in touch.
+
+## Contributing
+
+As this is my personal portfolio, I'm not actively seeking contributions. However, if you find any issues or have suggestions for improvement, feel free to open an issue or contact me directly.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
