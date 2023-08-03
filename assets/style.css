@@ -132,3 +132,18 @@ section p em {
     background-color: #555; /* Set background color to dark gray on hover */
     color: white; /* Set link color to white on hover */
 }
+
+/* Increase the font size and height of the navigation items */
+nav li {
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px; /* Adjust the font size as needed */
+    line-height: 1.5; /* Adjust the line-height to vertically center the text */
+}
+
+/* Increase the padding for the header to make the navbar taller */
+header {
+    background-color: #ffcc00;
+    color: black;
+    padding: 20px 0; /* Adjust the padding as needed */
+}
