@@ -1,0 +1,134 @@
+/* Reset default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    color: white; /* Set text color to white */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black; /* Set background color to black */
+}
+
+/* Style the header and navigation */
+header {
+    background-color: #ffcc00; /* Set header background color to yellow */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav li a {
+    color: #333; /* Set navigation link color to dark gray */
+    text-decoration: none;
+}
+
+/* Style the sections */
+section {
+    padding: 50px;
+}
+
+/* Style the contact form */
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ffcc00; /* Set form element border color to yellow */
+    border-radius: 5px;
+    background-color: #333; /* Set form element background color to dark gray */
+    color: white; /* Set form element text color to white */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ffcc00; /* Set button background color to yellow */
+    color: black; /* Set button text color to black */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+    color: white; /* Set button text color to white on hover */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+/* Style the portfolio paragraph */
+section p {
+    font-size: 18px;
+    line-height: 1.6;
+    padding: 10px 0;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+/* Add margin to separate paragraphs */
+section p:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+/* Indent the first line of the paragraph */
+section p::first-line {
+    text-indent: 20px;
+}
+
+/* Make important points bold */
+section p strong {
+    font-weight: bold;
+}
+
+/* Add underline to specific text */
+section p em {
+    text-decoration: underline;
+}
+
+#portfolio a {
+    font-size: 20px;
+    color: #ffcc00; /* Set link color to yellow */
+    background-color: black; /* Set background color to black */
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none; /* Remove underline from the link */
+}
+
+#portfolio a:hover {
+    background-color: #555; /* Set background color to dark gray on hover */
+    color: white; /* Set link color to white on hover */
+}
+
+#contact a {
+    font-size: 20px;
+    color: #ffcc00; /* Set link color to yellow */
+    background-color: black; /* Set background color to black */
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none; /* Remove underline from the link */
+}
+
+#contact a:hover {
+    background-color: #555; /* Set background color to dark gray on hover */
+    color: white; /* Set link color to white on hover */
+}
