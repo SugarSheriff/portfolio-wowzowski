@@ -1,6 +1,6 @@
 # Liam's Portfolio
 
-Welcome to my portfolio! This repository contains the source code for my personal portfolio website. The portfolio showcases my skills, projects, and experiences as a passionate programmer with a focus on full-stack web development.
+Welcome to my portfolio! This repository contains the source code for my personal portfolio website. The portfolio showcases my skills, projects, and experiences as a passionate programmer with a focus on full-stack web development. Check it out here: https://wowzowski.github.io/portfolio-wowzowski/
 
 ## Technologies Used
 
