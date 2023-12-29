@@ -198,3 +198,44 @@ footer a {
 .footer-content a:hover {
     color: #555;
 }
+
+/* Style the skills section */
+#skills {
+    padding: 50px;
+}
+
+#skills h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+#skills li {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: #333;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+/* Smaller font size for the skills section */
+#skills p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Increase contrast for improved readability in skills section */
+#skills a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+#skills a:hover {
+    color: #555;
+}
