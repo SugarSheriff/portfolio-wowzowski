@@ -214,7 +214,7 @@ footer a {
     padding: 0;
 }
 
-#skills li {
+#skills ul {
     font-size: 18px;
     line-height: 1.6;
     background-color: #333;
